@@ -1,0 +1,7 @@
+
+^
+java:S4488%"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Æøîç
+7
+java:S1116-"Remove this empty statement.(Åñ­õþÿÿÿÿ
+e
+java:S44881"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ßƒµ¢þÿÿÿÿ

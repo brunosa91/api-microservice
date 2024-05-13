@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ibmshop-backend-gateway-api/pom.xml" />
+        <option value="$PROJECT_DIR$/ibmshop-backend-products-api/pom.xml" />
+        <option value="$PROJECT_DIR$/ibmshop-backend-server/pom.xml" />
+        <option value="$PROJECT_DIR$/ibmshop-backend-shop-api/pom.xml" />
+        <option value="$PROJECT_DIR$/ibmshop-backend-user-api/pom.xml" />
+        <option value="$PROJECT_DIR$/ibmshop-backend-auth-service/pom.xml" />
+        <option value="$PROJECT_DIR$/discount/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

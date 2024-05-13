@@ -1,0 +1,42 @@
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+resilience4j:
+  circuitbreaker:
+    instances:
+      returnFallback:
+        failureRateThreshold: 5
+        minimumNumberOfCalls: 10
+        permittedNumberOfCallsInHalfOpenState: 4
+        registerHealthIndicator: true
+        slidingWindowSize: 10
+        slidingWindowType: COUNT_BASED
+        slowCallDurationThreshold: 5000
+        slowCallRateThreshold: 50
+        waitDurationInOpenState: 5000
+server:
+  error:
+    include-stacktrace: never
+  port: 8090
+spring:
+  application:
+    name: ibmshop-backend-shop-api
+  datasource:
+    password: root
+    url: jdbc:mysql://localhost/db_ibmshop_shop?createDatabaseIfNotExist=true&serverTimezone=America/Sao_Paulo&useSSl=false
+    username: root
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: Brazil/East
+  jpa:
+    database: mysql
+    hibernate:
+      ddl-auto: create-drop
+    open-in-view: true
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL8Dialect
+    show-sql: true
+  profiles:
+    active: test

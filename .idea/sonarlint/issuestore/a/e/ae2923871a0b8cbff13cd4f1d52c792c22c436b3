@@ -1,0 +1,20 @@
+
+l	java:S116"WRename this field "nome_produto" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬´ÿ
+n	java:S116$"YRename this field "valor_unitario" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·¬‰÷
+O
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ
+j
+java:S1128"TRemove this unused import 'org.bouncycastle.util.test.FixedSecureRandom.BigInteger'.(ùßÓƒ
+c
+java:S1128"HRemove this unused import 'com.fasterxml.jackson.annotation.JsonFormat'.(ıÙè‹øÿÿÿÿ
+Z
+java:S1128
+"?Remove this unused import 'jakarta.validation.constraints.Max'.(‹²Ÿ—şÿÿÿÿ
+Z
+java:S1128"?Remove this unused import 'jakarta.validation.constraints.Min'.(Ê¸ñüøÿÿÿÿ
+_
+java:S1128"DRemove this unused import 'jakarta.validation.constraints.NotBlank'.(ÕØ¡Õøÿÿÿÿ
+^
+java:S1128"CRemove this unused import 'jakarta.validation.constraints.NotNull'.(Àª•ıÿÿÿÿ
+V
+java:S1128"@Remove this unused import 'jakarta.validation.constraints.Size'.(çÀ…Í

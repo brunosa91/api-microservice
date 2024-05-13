@@ -1,0 +1,7 @@
+
+x	java:S1162"WRename this field "data_criacao" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×‹©ùÿÿÿÿ8‚ˆ™ä’1
+|	java:S1165"[Rename this field "data_modificacao" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…—·ùÿÿÿÿ8‚ˆ™ä’1
+e
+java:S1128"HRemove this unused import 'com.ibmshop.userapi.domain.entities.Address'.(ªÊ”8ˆˆ™ä’1
+h
+java:S1128"KRemove this unused import 'com.ibmshop.userapi.domain.entities.UserEntity'.(êÉÒß8‰ˆ™ä’1

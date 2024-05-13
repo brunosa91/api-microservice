@@ -1,0 +1,7 @@
+
+l	java:S116"WRename this field "nome_produto" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬´ÿ
+n	java:S116,"YRename this field "valor_unitario" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûà±
+q	java:S116/"WRename this field "data_criacao" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×‹©ùÿÿÿÿ
+t	java:S1163"ZRename this field "id_sub_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğº›¾úÿÿÿÿ
+H
+java:S6126*"2Replace this String concatenation with Text block.(Ï şÎ

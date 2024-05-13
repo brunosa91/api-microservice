@@ -1,0 +1,57 @@
+server:
+  port: 8765
+  error:
+    include-stacktrace: never
+
+spring:
+  application:
+    name: gateway-api
+  cloud:
+    gateway:
+      globalcors:
+        corsConfigurations:
+          '[/**]':
+            allowedOrigins: "*"
+            allowedHeaders: "*"
+            allowedMethods: "*"
+      discovery:
+        locator:
+          enabled: true
+          lowerCaseServiceId: true
+      routes:
+        - id: ibmshop-backend-products-api
+          uri: lb://ibmshop-backend-products-api
+          predicates:
+            - Path=/product/**
+
+        - id: ibmshop-backend-user-api
+          uri: lb://ibmshop-backend-user-api
+          predicates:
+            - Path=/user/**
+
+        - id: ibmshop-backend-shop-api
+          uri: lb://ibmshop-backend-shop-api
+          predicates:
+            - Path=/pedidos/**
+
+        - id: ibmshop-backend-auth-service
+          uri: lb://ibmshop-backend-auth-service
+          predicates:
+            - Path=/auth/**
+
+  autoconfigure:
+    exclude:
+            - org.springframework.boot.autoconfigure.security.reactive.ReactiveSecurityAutoConfiguration
+            - org.springframework.boot.actuate.autoconfigure.security.reactive.ReactiveManagementWebSecurityAutoConfiguration
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+
+#Eureka
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka

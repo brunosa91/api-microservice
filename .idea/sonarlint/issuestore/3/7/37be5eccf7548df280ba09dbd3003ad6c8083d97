@@ -1,0 +1,36 @@
+
+¹
+java:S1192;"Define a constant instead of duplicating this literal "Desculpe, nÃ£o foi possÃ­vel encontrar um usuÃ¡rio com este id. Verifique e tente novamente." 3 times.(½·Ø¿ÿÿÿÿÿ
+x
+java:S1192S"bDefine a constant instead of duplicating this literal "Mapeado os usuarios para dto ${} " 3 times.(ºûÀ¦
+f	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Ñ‹¿
+>
+java:S5411@"(Use a primitive boolean expression here.(ä…‡µ
+;
+java:S3457)"%String contains no format specifiers.(Ãï
+V
+java:S3457,"AFormat specifiers should be used instead of string concatenation.(—Ãş
+W
+java:S34577"AFormat specifiers should be used instead of string concatenation.(¦ûÀ„
+\
+java:S3457>"AFormat specifiers should be used instead of string concatenation.(åáŸÔûÿÿÿÿ
+=
+java:S1125@"'Remove the unnecessary boolean literal.(ä…‡µ
+V
+java:S3457L"AFormat specifiers should be used instead of string concatenation.(ÓÌ·g
+m
+java:S6204Q"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(€Š˜çşÿÿÿÿ
+W
+java:S3457S"AFormat specifiers should be used instead of string concatenation.(ºûÀ¦
+W
+java:S3457^"AFormat specifiers should be used instead of string concatenation.(‚¹
+\
+java:S3457e"AFormat specifiers should be used instead of string concatenation.(ÅëáÑüÿÿÿÿ
+\
+java:S3457n"AFormat specifiers should be used instead of string concatenation.(à•‹øùÿÿÿÿ
+\
+java:S3457}"AFormat specifiers should be used instead of string concatenation.(›—¾Áÿÿÿÿÿ
+]
+java:S3457ˆ"AFormat specifiers should be used instead of string concatenation.(Ôö×­úÿÿÿÿ
+]
+java:S3457"AFormat specifiers should be used instead of string concatenation.(Ôö×­úÿÿÿÿ

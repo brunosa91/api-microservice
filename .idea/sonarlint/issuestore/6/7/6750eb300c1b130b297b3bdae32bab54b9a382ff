@@ -1,0 +1,26 @@
+
+c
+java:S1128"HRemove this unused import 'com.fasterxml.jackson.annotation.JsonFormat'.(ıÙè‹øÿÿÿÿ
+`
+java:S1128"JRemove this unused import 'com.fasterxml.jackson.annotation.JsonProperty'.(ËÃ§Ï
+e
+java:S1128"ORemove this unused import 'com.ibmshop.userapi.app.dto.input.AddressDtoInsert'.(’ŒÇ
+P
+java:S1128"5Remove this unused import 'jakarta.validation.Valid'.(ÀãÅ”ûÿÿÿÿ
+_
+java:S1128"DRemove this unused import 'jakarta.validation.constraints.NotBlank'.(ÕØ¡Õøÿÿÿÿ
+^
+java:S1128	"CRemove this unused import 'jakarta.validation.constraints.NotNull'.(Àª•ıÿÿÿÿ
+^
+java:S1128
+"CRemove this unused import 'jakarta.validation.constraints.Pattern'.(Îá˜ãúÿÿÿÿ
+V
+java:S1128"@Remove this unused import 'jakarta.validation.constraints.Size'.(çÀ…Í
+]
+java:S1128"GRemove this unused import 'org.hibernate.validator.constraints.br.CPF'.(£ ¦¤
+O
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ

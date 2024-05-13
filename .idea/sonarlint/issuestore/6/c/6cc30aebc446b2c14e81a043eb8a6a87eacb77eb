@@ -1,0 +1,44 @@
+
+>
+java:S5411f"(Use a primitive boolean expression here.(Á¶ÍÌ
+C
+java:S5411k"(Use a primitive boolean expression here.(¾€º¼üÿÿÿÿ
+?
+java:S5411Œ"(Use a primitive boolean expression here.(Æ¾ˆñ
+D
+java:S5411"(Use a primitive boolean expression here.(ÒŠ‰úÿÿÿÿ
+?
+java:S5411š"(Use a primitive boolean expression here.(Ìç´
+D
+java:S5411²"(Use a primitive boolean expression here.(¾€º¼üÿÿÿÿ
+D
+java:S5411µ"(Use a primitive boolean expression here.(µ³‡íúÿÿÿÿ
+H
+java:S1199i"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+m
+java:S6204."RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¯Å«¦úÿÿÿÿ
+;
+java:S34570"%String contains no format specifiers.(Çôû©
+m
+java:S6204M"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(áËÈñıÿÿÿÿ
+=
+java:S1125d"'Remove the unnecessary boolean literal.(‡°Ü
+=
+java:S1125f"'Remove the unnecessary boolean literal.(Á¶ÍÌ
+B
+java:S1125k"'Remove the unnecessary boolean literal.(¾€º¼üÿÿÿÿ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(˜‹şÿÿÿÿ
+>
+java:S1125Œ"'Remove the unnecessary boolean literal.(Æ¾ˆñ
+C
+java:S1125"'Remove the unnecessary boolean literal.(ÒŠ‰úÿÿÿÿ
+>
+java:S1125š"'Remove the unnecessary boolean literal.(Ìç´
+C
+java:S1125²"'Remove the unnecessary boolean literal.(¾€º¼üÿÿÿÿ
+N
+java:S1481´"2Remove this unused "addressInList" local variable.(¿¹âÓúÿÿÿÿ
+C
+java:S1125µ"'Remove the unnecessary boolean literal.(µ³‡íúÿÿÿÿ
+W	java:S125¾"<This block of commented-out lines of code should be removed.(±àÛ†ÿÿÿÿÿ

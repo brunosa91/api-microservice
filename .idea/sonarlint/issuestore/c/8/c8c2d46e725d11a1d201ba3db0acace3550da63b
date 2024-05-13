@@ -1,0 +1,8 @@
+
+f	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÒÎ
+t
+java:S1488."^Immediately return this expression instead of assigning it to the temporary variable "objDto".(£¨¡
+y
+java:S14889"^Immediately return this expression instead of assigning it to the temporary variable "objDto".(ëÚš±şÿÿÿÿ
+h
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/discount" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ibmshop-backend-auth-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ibmshop-backend-gateway-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ibmshop-backend-products-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ibmshop-backend-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ibmshop-backend-shop-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ibmshop-backend-user-api" vcs="Git" />
+  </component>
+</project>

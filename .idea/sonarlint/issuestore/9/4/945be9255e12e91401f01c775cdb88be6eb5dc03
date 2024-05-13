@@ -1,0 +1,21 @@
+
+;
+java:S3457"%String contains no format specifiers.(ÓÌâ‘
+W
+java:S3457%"AFormat specifiers should be used instead of string concatenation.(úªØ
+I
+java:S1905'"3Remove this unnecessary cast to "AddressDtoOutput".(òã©ê
+7
+java:S1116+"Remove this empty statement.(Åñ­õşÿÿÿÿ
+W
+java:S34570"AFormat specifiers should be used instead of string concatenation.(³‹²Ö
+7
+java:S11166"Remove this empty statement.(Åñ­õşÿÿÿÿ
+W
+java:S3457<"AFormat specifiers should be used instead of string concatenation.(ú§‹ô
+7
+java:S1116B"Remove this empty statement.(Åñ­õşÿÿÿÿ
+W
+java:S3457I"AFormat specifiers should be used instead of string concatenation.(øú„Ô
+\
+java:S3457R"AFormat specifiers should be used instead of string concatenation.(«Ã»­ıÿÿÿÿ

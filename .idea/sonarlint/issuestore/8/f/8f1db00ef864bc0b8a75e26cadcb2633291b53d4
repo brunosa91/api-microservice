@@ -1,0 +1,8 @@
+
+[	java:S112l"FDefine and throw a dedicated exception instead of using a generic one.(ΓΤχύ
+7
+java:S1116F"Remove this empty statement.(Ερ­υώÿÿÿÿ
+S	java:S106U"9Replace this use of System.out or System.err by a logger.(όλερόÿÿÿÿ
+7
+java:S1116Y"Remove this empty statement.(τμϊÿÿÿÿ
+c	java:S100i"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚’ρ

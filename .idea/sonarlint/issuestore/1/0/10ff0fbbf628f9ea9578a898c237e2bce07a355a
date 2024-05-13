@@ -1,0 +1,11 @@
+
+J
+java:S3740!"/Provide the parametrized type for this generic.(Ÿ¢‚”øÿÿÿÿ
+h	java:S100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ¢‚”øÿÿÿÿ
+w
+java:S1128	"aRemove this unused import 'org.springframework.web.bind.MissingServletRequestParameterException'.(­™¥¬
+p
+java:S1128
+"URemove this unused import 'org.springframework.web.bind.annotation.ControllerAdvice'.(¶Í„áüÿÿÿÿ
+Y
+java:S1128"DRemove this unused import 'jakarta.servlet.http.HttpServletRequest'.(õ3

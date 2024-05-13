@@ -1,0 +1,48 @@
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+server:
+  error:
+    include-stacktrace: never
+  port: 8001
+#spring:
+#  application:
+#    name: ibmshop-backend-user-api
+#  datasource:
+#    password: root
+#    url: jdbc:mysql://localhost/db_ibmshop?createDatabaseIfNotExist=true&serverTimezone=America/Sao_Paulo&useSSl=false
+#    username: root
+#  jackson:
+#    date-format: yyyy-MM-dd HH:mm:ss
+#    time-zone: Brazil/East
+#  jpa:
+#    database: mysql
+#    hibernate:
+#      ddl-auto: create-drop
+#    open-in-view: true
+#    properties:
+#      hibernate:
+#        dialect: org.hibernate.dialect.MySQL8Dialect
+#    show-sql: true
+  spring:
+    application:
+      name: ibmshop-backend-user-api
+    datasource:
+      password: postgres
+      url: jdbc:postgresql://localhost:5432/postgres
+      username: postgres
+    jpa:
+      database:
+      hibernate:
+        ddl-auto: create-drop
+      open-in-view: true
+      properties:
+        hibernate:
+          dialect: org.hibernate.dialect.PostgreSQLDialect
+      show-sql: true
+  mvc:
+    pathmatch:
+      matching-strategy: ant-path-matcher
+  profiles:
+    active: test

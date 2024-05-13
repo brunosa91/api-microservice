@@ -1,0 +1,27 @@
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+server:
+  error:
+    include-stacktrace: never
+  port: 8116
+spring:
+  application:
+    name: discount
+  datasource:
+    password: root
+    url: jdbc:mysql://localhost/db_ibmshop_discount?createDatabaseIfNotExist=true&serverTimezone=America/Sao_Paulo&useSSl=false
+    username: root
+  jpa:
+    database: mysql
+    hibernate:
+      ddl-auto: create-drop
+    open-in-view: true
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL8Dialect
+    show-sql: true
+  profiles:
+    active: test
+
